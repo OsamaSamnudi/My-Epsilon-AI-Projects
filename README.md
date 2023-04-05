@@ -4,6 +4,7 @@ PRJ-(01)-Rock_Paper_Scissor_Game :
   * Rock vs paper-> paper wins
   * Rock vs scissor-> Rock wins
   * paper vs scissor-> scissor wins.
+  * Uses Random , For Loop
 
 PRJ 2) Thanos :
   * required to destroy randomly (delete) half of the files in the "universe" directory
@@ -16,3 +17,4 @@ PRJ 3) Hangman Game :
   * When a letter in that word is guessed correctly, that letter position in the word is made visible. In this way,all letters of the word are to be guessed before all       the chances are over.
   * For convenience, we have given length of word + 2 chances. 
   * For example, word to be guessed is mango, then user gets 5 + 2 = 7 chances, as mango is a five letter word.
+  * Uses Random, While loop , enumerate
