@@ -1,6 +1,6 @@
 # My-Epsilon-AI-Projects :
 
-PRJ-(01)-Create Strong Password :
+PRJ-(00)-Create Strong Password :
  * This application create strong randomly passowrd shuffling between Upper,Lower,Digits and Punctuation Characters.
  * User can select Characters count in startup , and the application will generat the password based on below distribution ratios:
  * Used :
