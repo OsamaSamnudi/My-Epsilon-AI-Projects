@@ -1,4 +1,9 @@
 # My-Epsilon-AI-Projects :
+PRJ-(01)-Create Strong Password :
+ * This application create strong randomly passowrd shuffling between Upper,Lower,Digits and Punctuation Characters
+ * Used :
+   * random , String Libraries
+
 PRJ-(01)-Rock_Paper_Scissor_Game :
  * In this game, the user gets the first chance to pick the option among Rock, paper and scissors. After that computer select from the remaining two choices(randomly),      the winner is decided as per the rules.¶
   * Rock vs paper-> paper wins
